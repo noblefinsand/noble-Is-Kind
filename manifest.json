@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Noble is kind",
+  "description": "Noble is kind tracker",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+
+  "csp": "script-src 'self' 'unsafe-inline' https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js; object-src 'self'"
+}

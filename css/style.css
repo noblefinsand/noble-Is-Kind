@@ -1,0 +1,38 @@
+body, html {
+  height: 561px;
+  width: 305px;
+  background: url(../img/noble.png) no-repeat;
+}
+
+#click-me {
+  font-size: 15px;
+  width: 250px;
+  display: block;
+  margin: 0px auto;
+  white-space: normal;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  position: absolute;
+  top: 30px;
+  left: 25px;
+}
+
+#reset {
+  position: absolute;
+  left: 90px;
+  top: 515px;
+}
+
+#counter {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 80px;
+  position: absolute;
+  left: 175px;
+  top: 405px;
+}
+
+.nobes {
+  display: block;
+  margin: 0px auto;
+}
